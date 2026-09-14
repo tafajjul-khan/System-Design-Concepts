@@ -1,1 +1,1 @@
-this repo and folder i use to impliment and understand system design concepts and how we impliments system deisng concepts in code and i try to use this concepts in my projects.
+I use this repo to track my systemd design learnings and i impliments code and practices of systemd concepts in this repo.
