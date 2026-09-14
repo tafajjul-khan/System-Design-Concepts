@@ -1,0 +1,1 @@
+this repo and folder i use to impliment and understand system design concepts and how we impliments system deisng concepts in code and i try to use this concepts in my projects.
