@@ -1,0 +1,29 @@
+{
+  "name": "soap-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/server.js",
+  "scripts": {
+    "server": "tsx src/server.ts",
+  "client": "tsx src/client.ts",
+  "build": "tsc",
+  "start": "node dist/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.5.1",
+    "node-ts": "^8.0.12",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "soap": "^1.12.0"
+  }
+}
